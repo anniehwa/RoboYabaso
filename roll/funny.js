@@ -116,8 +116,7 @@ return rply;
 //////////////// Funny
 ////////////////////////////////////////
 /* 猜拳功能 */
-function RockPaperScissors(HandToCal, text) {
-	let returnStr = '';
+function RockPaperScissors(HandToCal, text) {let returnStr = '';
 	if (HandToCal.match(/石頭|布|剪刀|1|2|3/) != null) {
 	let aHand = ['石頭','布','剪刀'];
 	HandToCal = aHand[Math.floor((Math.random() * (aHand.length)) + 0)];

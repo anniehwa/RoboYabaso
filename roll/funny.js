@@ -67,7 +67,7 @@ return rply;
 	
 function randomReply() {
 let rplyArr = ['\
-斑比終於更新啦', '\
+「斑比終於更新啦」', '\
 新的版本怎麼樣啊', '\
 祝大家爬分順利！ \n一百勝直接上GM！', '\
 大家快投世界樹！', '\

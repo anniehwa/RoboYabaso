@@ -87,7 +87,7 @@ function parseInput(rplyToken, inputStr) {
 	
 	//鴨霸獸指令開始於此
 	if (trigger.match(/班比|斑比/) != null) return exports.funny.randomReply() ;	
-	if (trigger.match(/運氣|運勢/) != null) return exports.funny.randomLuck(mainMsg) ; //占卜運氣		
+	if (trigger.match(/運氣|機率/) != null) return exports.funny.randomLuck(mainMsg) ; //占卜運氣		
 	
 
 	

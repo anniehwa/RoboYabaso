@@ -60,7 +60,7 @@ let rplyArr = ['\
 「就算殺死也沒問題吧？」', '\
 「看我塔下強殺！」', '\
 「騙人的吧，我們不是朋友嗎？」', '\
-「我老爸是....你有種就....」', '\
+「我老爸是...你有種就....」', '\
 「我可以好好利用這件事」'];
 rply.text = rplyArr[Math.floor((Math.random() * (rplyArr.length)) + 0)];
 return rply;

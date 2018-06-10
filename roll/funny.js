@@ -6,6 +6,7 @@ var rply ={type : 'text'}; //type是必需的,但可以更改
 ////////////////////////////////////////
 
 
+
 function BStyleFlagSCRIPTS() {
 let rplyArr = ['\
 「打完這仗我就回老家結婚（この戦いが終わったら、故郷に帰って結婚するんだ）」', '\
